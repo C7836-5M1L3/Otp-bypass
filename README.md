@@ -12,4 +12,6 @@ $  git clone https://github.com/C7836-5M1L3/Otp-bypass
 
 $  cd Otp-bypass
 
-$  python otp.py
+$  python sotp.py
+
+WAIT A 3 MINUTES
