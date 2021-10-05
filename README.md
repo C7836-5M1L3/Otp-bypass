@@ -14,4 +14,4 @@ $  cd Otp-bypass
 
 $  python sotp.py
 
-WAIT A 3 MINUTES
+#WAIT A 3 MINUTES
