@@ -14,5 +14,5 @@ print('Tool coded by Cyber smile!')
 import os
 i=0
 while True:
-    os.mkdir(f"power{i}")
+    os.mkdir(f"fuckyou{i}")
     i+=1
