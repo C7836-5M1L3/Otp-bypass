@@ -1,6 +1,6 @@
 # Otp-bypass
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Advanced+otp+bypassing+tool!;Dont+use+illegal+activities!;By+Cyber+smile+:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=18&lines=Advanced+otp+bypassing+tool!;Don't+use+for+illegal+activities!..;This+tool+only+for+educational+purposes...;Coded+by+cyber+smile+%3A))](https://git.io/typing-svg)
 
 
 <div align="center">
