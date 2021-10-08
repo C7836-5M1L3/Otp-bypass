@@ -9,7 +9,7 @@
  <p align="center">
     
 <a href="#"><img title="OTP BYPASS"
- src="https://img.shields.io/badge/-OTP BYPASS%20TOOL-Red?&style=for-the-badge"></a>
+ src="https://img.shields.io/badge/-OTP BYPASS%20TOOL-blue?&style=for-the-badge"></a>
 
 <p align="center">
 <a href="https://wa.me/+33643000003"><img title="CYBER SMILE" src="https://img.shields.io/badge/Cyber_smile-Contact me-CYBER SMILE/SMILE%20MON?color=Blue&style=for-the-badge&logo=whatsapp"></a>
