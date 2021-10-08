@@ -30,4 +30,4 @@ $ python sotp.py
       
 ```js
 
-## ©Cyber smile 
+##©Cyber smile 
