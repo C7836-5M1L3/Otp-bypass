@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Advanced+otp+bypassing+tool!;Dont+use+illegal+activities!;By+Cyber+smile+:)](https://git.io/typing-svg)
 
 
+Link :- https://telegra.ph/file/af6d0967d851f7b8fa77e.jpg
 
 
 $  apt update && apt upgrade
