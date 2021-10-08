@@ -7,7 +7,7 @@
   <img border-radius: 15px src="https://telegra.ph/file/af6d0967d851f7b8fa77e.jpg" width="250" height="250"/>
 
 <p align="center">
-<a href="https://wa.me/+33643000003"><img title="CYBER SMILE" src="https://img.shields.io/badge/Kokachy-MINION-KOKACHY/CHIKKU%20MOL?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+33643000003"><img title="CYBER SMILE" src="https://img.shields.io/badge/Cyber_smile-CYBER-SMILE/CHIKKU%20MOL?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
 
 
