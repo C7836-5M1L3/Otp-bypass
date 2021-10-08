@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/af6d0967d851f7b8fa77e.jpg" width="300" height="300"/>
+  <img border-radius: 15px src="https://telegra.ph/file/af6d0967d851f7b8fa77e.jpg" width="200" height="200"/>
 
 
 
