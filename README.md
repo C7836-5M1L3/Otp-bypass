@@ -19,6 +19,7 @@
 <a href="https://wa.me/+33643000003"><img title="CYBER SMILE" src="https://img.shields.io/badge/Cyber_smile-Contact me-CYBER SMILE/SMILE%20MON?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
 
+---
 
 ## Installation!
 
