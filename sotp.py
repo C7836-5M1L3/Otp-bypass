@@ -1,6 +1,5 @@
 #run it on your own risk
 import os
-print('\clear \n")
 print("\033[1;32;40m   \n")
 print("\u001b[31m      \n")
 print('╔═══╗───╔╗')
