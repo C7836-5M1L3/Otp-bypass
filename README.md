@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/098b64b656cfa872eb832.jpg" width="250" height="250"/>
+  <img border-radius: 15px src="https://telegra.ph/file/39a188427b9dc24d9b5bf.jpg" width="250" height="250"/>
 
  <p align="center">
     
